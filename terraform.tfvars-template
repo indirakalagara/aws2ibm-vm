@@ -1,0 +1,27 @@
+src_provider_access_key = ""
+src_provider_secret_key = ""
+src_provider_region = ""
+src_provider_name=""
+src_bucket=""
+aws_instance_ID = ""
+
+ibmcloud_api_key=""
+ibm_resource_group=""
+dest_provider_access_key = ""
+dest_provider_secret_key = ""
+dest_provider_name=""
+dest_provider_region= ""
+dest_cos_instance_name=""
+dest_bucket="" 
+dest_bucket_type=""
+dest_endpoint = ""
+
+
+custom_image_name  = ""
+custom_image_os=""
+
+base_name=""
+dest_ibm_ssh_key=""
+ibm_vsi_profile=""
+ibm_region_zone=""
+
